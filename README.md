@@ -1,6 +1,6 @@
 # Fleo-Intern
 
-It is the project that where you need to fetch and display the data in browser in effective manner using UI Tech stack like Reactjs and Java Script, Bootstrap,Html,CSS. Our output is like if you select some particular filter it shoulb be render in the web page along with updates the ur and page without loading.
+It is the project that where you need to fetch and display the data in browser in effective manner using UI Tech stack like Reactjs and Java Script, Bootstrap,Html,CSS. Our output is like if you select some particular filter it shoulb be render in the web page along with updates the url and page without loading.
 
 ## Project and environment setup
 
