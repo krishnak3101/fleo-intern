@@ -6,6 +6,7 @@ It is the project that where you need to fetch and display the data in browser i
 
 ### install react
 npm install react 
+
 npm install react-scripts
 
 ## install axios
